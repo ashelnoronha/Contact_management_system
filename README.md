@@ -1,4 +1,3 @@
-# PRODIGY_SD_03
 #Contact Management System
 A simple yet powerful Python application to manage your contacts with persistent storage.
 
